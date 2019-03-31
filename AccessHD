@@ -65,7 +65,7 @@ begin remote
           KEY_RECORD               0xEC13
           KEY_PIP                  0xFC03
           KEY_MACRO                0x946B
-          KEY_GUIDE                0x708F
+          KEY_EPG                  0x708F
           KEY_TV/STB               0xF40B
           KEY_BACK                 0x649B
           KEY_INPUT                0x54AB
