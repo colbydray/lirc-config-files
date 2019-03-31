@@ -54,7 +54,7 @@ begin remote
           KEY_YELLOW               0x10EF
           KEY_BLUE                 0xD02F
           KEY_MUTE                 0x9867
-          KEY_PREVIOUS             0xC837
+          KEY_LAST                 0xC837
           KEY_REWIND               0xCC33
           KEY_PAUSE                0x8C73
           KEY_PLAY                 0x0CF3
